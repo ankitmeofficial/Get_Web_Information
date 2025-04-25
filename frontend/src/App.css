@@ -1,0 +1,23 @@
+.section {
+    height: 100vh; /* Full height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    color: white;
+    background-color: #222; /* Default background */
+  }
+  
+  /* Different background colors for each section */
+  /* #home { background-color: #6a0572; } */
+
+
+  
+  #latest-insights { background-color: #d63447; }
+  #blogs { background-color: #f57b42; }
+  #videos { background-color: #4caf50; }
+  #case-studies { background-color: #2196f3; }
+  #services { background-color: #ff9800; }
+  #about-us { background-color: #9c27b0; }
+  #contact-us { background-color: #795548; }
+  
